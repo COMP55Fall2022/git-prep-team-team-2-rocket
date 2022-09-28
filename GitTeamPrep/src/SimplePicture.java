@@ -4,13 +4,14 @@ import acm.program.GraphicsProgram;
 
 public class SimplePicture extends GraphicsProgram {
 	public static int SIZE = 700;
+	public static final String ROBOTIMAGENAME = "robot.png";
 	
 	public void init() {
 		setSize(SIZE, SIZE);
 	}
 	
 	public void run() {
-		GImage robot = new GImage("robot.png", 200, 200);
+		GImage robot = new GImage(ROBOTIMAGENAME, 200, 200);
 		add(robot);
 		GLabel label = new GLabel("How I feel when using github hackslash", 200, 400);
 		add(label);
