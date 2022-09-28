@@ -1,7 +1,8 @@
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
-
+// new commet 2 
+// new comment
 public class SimplePicture extends GraphicsProgram {
 	public static int SIZE = 700;
 	public static final String ROBOTIMAGENAME = "robot.png";
