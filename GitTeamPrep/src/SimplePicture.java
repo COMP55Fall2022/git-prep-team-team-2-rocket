@@ -1,7 +1,7 @@
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
-// new commet 2 
+// new comment 
 // new comment
 public class SimplePicture extends GraphicsProgram {
 	public static int SIZE = 700;
