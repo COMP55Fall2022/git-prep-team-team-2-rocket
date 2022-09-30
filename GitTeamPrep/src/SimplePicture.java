@@ -15,7 +15,7 @@ public class SimplePicture extends GraphicsProgram {
 		//try 2
 		GImage robot = new GImage(ROBOTIMAGENAME, 200, 200);
 		add(robot);
-		GLabel label = new GLabel("Why did I suggest team rocket? Rockets are epic -Martyr", 200, 300);
+		GLabel label = new GLabel("Martyr", 200, 300);
 		add(label);
 	}
 	
