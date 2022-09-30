@@ -17,10 +17,12 @@ public class SimplePicture extends GraphicsProgram {
 		add(robot);
 
 		GLabel label = new GLabel("Miguel C. G.", 200, 300);
-		add(label);
+
 	}
 	
 	// I jiberish
+	//commit 1
+	//commit 2
 	
 	public static void main(String[] args) {
 		new SimplePicture().start();
