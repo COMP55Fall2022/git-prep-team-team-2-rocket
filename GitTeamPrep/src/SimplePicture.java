@@ -22,6 +22,7 @@ public class SimplePicture extends GraphicsProgram {
 	
 	// I jiberish
 	//commit 1
+	//commit 2
 	
 	public static void main(String[] args) {
 		new SimplePicture().start();
