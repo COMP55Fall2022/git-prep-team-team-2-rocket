@@ -18,8 +18,9 @@ public class SimplePicture extends GraphicsProgram {
 
 		GLabel label = new GLabel("COMMITINGGGGGG", 200, 300);
 		add(label);
-		
 	}
+	
+	// I jiberish
 	
 	public static void main(String[] args) {
 		new SimplePicture().start();
