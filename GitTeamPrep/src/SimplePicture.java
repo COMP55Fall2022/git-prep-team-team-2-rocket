@@ -15,8 +15,10 @@ public class SimplePicture extends GraphicsProgram {
 		//try 2
 		GImage robot = new GImage(ROBOTIMAGENAME, 200, 200);
 		add(robot);
-		GLabel label = new GLabel("Conflict lmao 4", 200, 300);
+		
+		GLabel label = new GLabel("Conflict lmao 5", 200, 300);
 		add(label);
+		
 	}
 	
 	public static void main(String[] args) {
