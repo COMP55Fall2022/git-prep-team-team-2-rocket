@@ -18,8 +18,11 @@ public class SimplePicture extends GraphicsProgram {
 
 		GLabel label = new GLabel("failed push lol", 200, 300);
 		add(label);
-		
 	}
+	
+	// I jiberish
+	//commit 1
+	//commit 2
 	
 	public static void main(String[] args) {
 		new SimplePicture().start();
