@@ -17,7 +17,7 @@ public class SimplePicture extends GraphicsProgram {
 		add(robot);
 
 
-		GLabel label = new GLabel("Hackslash!", 200, 400);
+		GLabel label = new GLabel("HAVOC!", 200, 400);
 		add(label);
 
 
